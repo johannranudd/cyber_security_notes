@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "be2a4d7ded6ba08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e03316788c6d9f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d95e1df0659cbbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "revshell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "revshell"
+            }
+          },
+          {
+            "id": "300602f8330bdd9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a5db921f9ab09dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f61ec924fc2de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708179086d123c40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7fa256fb0d6d6cc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ca8d2a172f9a8a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ed37260d64110ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65564d906f23699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa721a80194d9602",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "revshell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for revshell"
+            }
+          },
+          {
+            "id": "2ff4abc08059078f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "77454ce9655296ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ed0f87544fea3d4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "asd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of asd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d95e1df0659cbbf",
+  "lastOpenFiles": [
+    "Metasploit.md",
+    "revshell.md",
+    "CVE - Common Vulnerabilities and Exposures.md",
+    "Hashes.md",
+    "linux.md",
+    "Moniker.md",
+    "temp.md",
+    "Nmap.md",
+    "CVE",
+    "asd.md",
+    "test.md",
+    "Welcome.md",
+    "db-migrations.txt",
+    "number two.md",
+    "test note 1.md"
+  ]
+}
