@@ -98,7 +98,7 @@ All of the examples above are reverse payloads. This means you will need to have
 - go back to msfconsole and you should now have a meterpreter session running and be inside the target machine
 - if the target is a linux machine you can't use `hashdump`, instead you must cd into etc/ find the shadow file and `cat shadow`. This should show the hashes
 
-#### meterpreter
+# meterpreter
 [[meterpreter]]
 https://www.offsec.com/metasploit-unleashed/meterpreter-basics/
 
