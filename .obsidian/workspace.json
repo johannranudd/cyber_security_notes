@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d95e1df0659cbbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linux"
-            }
-          },
-          {
             "id": "25bf6428252fcda9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boxes/Eternal blue.md",
+                "file": "web applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eternal blue"
-            }
-          },
-          {
-            "id": "300602f8330bdd9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linux"
+              "title": "web applications"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boxes/Eternal blue.md",
+                "file": "web applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eternal blue"
+              "title": "Backlinks for web applications"
             }
           },
           {
@@ -197,17 +168,18 @@
   },
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
-    "linux.md",
+    "meterpreter.md",
+    "Moniker.md",
+    "web applications.md",
     "boxes/Eternal blue.md",
+    "linux.md",
     "Untitled",
     "boxes",
-    "meterpreter.md",
     "Metasploit.md",
     "temp.md",
     "revshell.md",
     "CVE - Common Vulnerabilities and Exposures.md",
     "Hashes.md",
-    "Moniker.md",
     "Nmap.md",
     "CVE",
     "asd.md",
