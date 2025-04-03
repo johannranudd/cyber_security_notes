@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nmap.md",
+                "file": "SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "SQL"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nmap.md",
+                "file": "SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nmap"
+              "title": "Backlinks for SQL"
             }
           },
           {
@@ -168,11 +168,12 @@
   },
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
-    "Pasted image 20250402204053.png",
+    "db-migrations.txt",
+    "JavaScript.md",
     "Nmap.md",
+    "Pasted image 20250402204053.png",
     "revshell.md",
     "SQL.md",
-    "JavaScript.md",
     "boxes/Eternal blue.md",
     "web applications.md",
     "meterpreter.md",
@@ -188,7 +189,6 @@
     "asd.md",
     "test.md",
     "Welcome.md",
-    "db-migrations.txt",
     "number two.md",
     "test note 1.md"
   ]
