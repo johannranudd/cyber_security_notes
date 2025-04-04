@@ -2,7 +2,7 @@
 ## Links
 ### extensions, "BApp Store" 
 - front page: https://portswigger.net/bappstore 
-- 
+- FoxyProxy (browser extension): https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-basic/
 
 ## shortcuts
 Shortcut 	Tab

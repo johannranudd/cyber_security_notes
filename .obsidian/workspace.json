@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Burp Suite.md",
+                "file": "OWASP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Burp Suite"
+              "title": "OWASP"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
     "id": "5ed37260d64110ed",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Burp Suite.md",
+                "file": "OWASP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Burp Suite"
+              "title": "Backlinks for OWASP"
             }
           },
           {
@@ -168,8 +168,10 @@
   },
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
-    "SQL.md",
     "Burp Suite.md",
+    "OWASP.md",
+    "temp.md",
+    "SQL.md",
     "db-migrations.txt",
     "JavaScript.md",
     "Nmap.md",
@@ -183,7 +185,6 @@
     "Untitled",
     "boxes",
     "Metasploit.md",
-    "temp.md",
     "CVE - Common Vulnerabilities and Exposures.md",
     "Hashes.md",
     "CVE",
