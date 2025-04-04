@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Burp Suite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Burp Suite"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "Burp Suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SQL"
+              "title": "Backlinks for Burp Suite"
             }
           },
           {
@@ -168,12 +168,13 @@
   },
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
+    "SQL.md",
+    "Burp Suite.md",
     "db-migrations.txt",
     "JavaScript.md",
     "Nmap.md",
     "Pasted image 20250402204053.png",
     "revshell.md",
-    "SQL.md",
     "boxes/Eternal blue.md",
     "web applications.md",
     "meterpreter.md",
