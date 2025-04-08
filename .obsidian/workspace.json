@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OWASP"
+              "title": "Python"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OWASP"
+              "title": "Backlinks for Python"
             }
           },
           {
@@ -168,8 +168,13 @@
   },
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
-    "Burp Suite.md",
+    "linux.md",
+    "Python.md",
     "OWASP.md",
+    "boxes/Eternal blue.md",
+    "denne",
+    "New folder",
+    "Burp Suite.md",
     "temp.md",
     "SQL.md",
     "db-migrations.txt",
@@ -177,11 +182,9 @@
     "Nmap.md",
     "Pasted image 20250402204053.png",
     "revshell.md",
-    "boxes/Eternal blue.md",
     "web applications.md",
     "meterpreter.md",
     "Moniker.md",
-    "linux.md",
     "Untitled",
     "boxes",
     "Metasploit.md",
