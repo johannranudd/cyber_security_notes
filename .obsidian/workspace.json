@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hydra.md",
+                "file": "Gobuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hydra"
+              "title": "Gobuster"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hydra.md",
+                "file": "Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hydra"
+              "title": "Backlinks for Gobuster"
             }
           },
           {
@@ -169,6 +169,7 @@
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
     "linux.md",
+    "Gobuster.md",
     "Hydra.md",
     "OWASP.md",
     "Python.md",
