@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQLmap.md",
+                "file": "Defensive security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLmap"
+              "title": "Defensive security"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQLmap.md",
+                "file": "Defensive security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SQLmap"
+              "title": "Backlinks for Defensive security"
             }
           },
           {
@@ -168,8 +168,9 @@
   },
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
-    "SQL.md",
     "SQLmap.md",
+    "Defensive security.md",
+    "SQL.md",
     "shells.md",
     "revshell.md",
     "Untitled.canvas",
@@ -200,7 +201,6 @@
     "asd.md",
     "test.md",
     "Welcome.md",
-    "number two.md",
-    "test note 1.md"
+    "number two.md"
   ]
 }
