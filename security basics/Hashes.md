@@ -1,4 +1,4 @@
-[[hash]] [[hashes]] #hash #hashes
+[[hash]] [[Hashes]] #hash #hashes
 Hashcat is used to find the different modes of hashes: https://hashcat.net/wiki/doku.php?id=example_hashes
 
 online hash identifiers: 

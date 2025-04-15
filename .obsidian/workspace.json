@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensive security.md",
+                "file": "security basics/Burp Suite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defensive security"
+              "title": "Burp Suite"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defensive security.md",
+                "file": "security basics/Burp Suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Defensive security"
+              "title": "Backlinks for Burp Suite"
             }
           },
           {
@@ -166,39 +166,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25bf6428252fcda9",
+  "active": "708179086d123c40",
   "lastOpenFiles": [
-    "Pasted image 20250415093239.png",
+    "security basics/Defensive security.md",
+    "security basics",
+    "pen testing",
     "Pasted image 20250415092819.png",
-    "linux.md",
-    "Defensive security.md",
-    "SQLmap.md",
-    "SQL.md",
-    "shells.md",
-    "revshell.md",
+    "Pasted image 20250415093239.png",
+    "security basics/linux.md",
+    "security basics/SQLmap.md",
+    "security basics/SQL.md",
+    "security basics/shells.md",
+    "security basics/revshell.md",
     "Untitled.canvas",
-    "meterpreter.md",
-    "web applications.md",
-    "Gobuster.md",
+    "security basics/meterpreter.md",
+    "security basics/web applications.md",
+    "security basics/Gobuster.md",
     "Shells.md",
-    "Hydra.md",
-    "OWASP.md",
-    "Python.md",
+    "security basics/Hydra.md",
+    "security basics/OWASP.md",
+    "security basics/Python.md",
     "boxes/Eternal blue.md",
     "denne",
     "New folder",
-    "Burp Suite.md",
-    "temp.md",
+    "security basics/Burp Suite.md",
+    "security basics/temp.md",
     "db-migrations.txt",
-    "JavaScript.md",
-    "Nmap.md",
+    "security basics/JavaScript.md",
+    "security basics/Nmap.md",
     "Pasted image 20250402204053.png",
-    "Moniker.md",
-    "Untitled",
+    "security basics/Moniker.md",
     "boxes",
-    "Metasploit.md",
-    "CVE - Common Vulnerabilities and Exposures.md",
-    "Hashes.md",
+    "security basics/Metasploit.md",
+    "security basics/CVE - Common Vulnerabilities and Exposures.md",
+    "security basics/Hashes.md",
     "CVE",
     "asd.md",
     "test.md",

@@ -1,4 +1,4 @@
-[[javascript]]
+[[JavaScript]]
 ### obfuscation and deobfuscation
 
 deobfuskator: https://obf-io.deobfuscate.io/

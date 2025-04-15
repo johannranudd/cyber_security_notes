@@ -1,4 +1,4 @@
-[[metasploit]]
+[[Metasploit]]
 
 Docs: https://docs.metasploit.com/
 
