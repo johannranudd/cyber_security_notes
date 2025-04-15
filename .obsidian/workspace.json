@@ -168,8 +168,11 @@
   },
   "active": "25bf6428252fcda9",
   "lastOpenFiles": [
-    "SQLmap.md",
+    "Pasted image 20250415093239.png",
+    "Pasted image 20250415092819.png",
+    "linux.md",
     "Defensive security.md",
+    "SQLmap.md",
     "SQL.md",
     "shells.md",
     "revshell.md",
@@ -178,7 +181,6 @@
     "web applications.md",
     "Gobuster.md",
     "Shells.md",
-    "linux.md",
     "Hydra.md",
     "OWASP.md",
     "Python.md",
@@ -200,7 +202,6 @@
     "CVE",
     "asd.md",
     "test.md",
-    "Welcome.md",
-    "number two.md"
+    "Welcome.md"
   ]
 }
