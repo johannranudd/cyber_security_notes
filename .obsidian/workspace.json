@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security basics/Burp Suite.md",
+                "file": "pen testing/Content Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Burp Suite"
+              "title": "Content Discovery"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security basics/Burp Suite.md",
+                "file": "pen testing/Content Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Burp Suite"
+              "title": "Backlinks for Content Discovery"
             }
           },
           {
@@ -166,15 +166,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "708179086d123c40",
+  "active": "25bf6428252fcda9",
   "lastOpenFiles": [
+    "pen testing/Pentesting Fundamentals.md",
+    "pen testing/Content Discovery.md",
+    "security basics/SQLmap.md",
+    "Untitled.md",
+    "security basics/Burp Suite.md",
     "security basics/Defensive security.md",
     "security basics",
     "pen testing",
     "Pasted image 20250415092819.png",
     "Pasted image 20250415093239.png",
     "security basics/linux.md",
-    "security basics/SQLmap.md",
     "security basics/SQL.md",
     "security basics/shells.md",
     "security basics/revshell.md",
@@ -189,7 +193,6 @@
     "boxes/Eternal blue.md",
     "denne",
     "New folder",
-    "security basics/Burp Suite.md",
     "security basics/temp.md",
     "db-migrations.txt",
     "security basics/JavaScript.md",
@@ -201,8 +204,6 @@
     "security basics/CVE - Common Vulnerabilities and Exposures.md",
     "security basics/Hashes.md",
     "CVE",
-    "asd.md",
-    "test.md",
-    "Welcome.md"
+    "asd.md"
   ]
 }
