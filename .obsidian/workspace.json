@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pen testing/File inclusion.md",
+                "file": "pen testing/Cross-site Scripting (XSS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File inclusion"
+              "title": "Cross-site Scripting (XSS)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pen testing/File inclusion.md",
+                "file": "pen testing/Cross-site Scripting (XSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for File inclusion"
+              "title": "Backlinks for Cross-site Scripting (XSS)"
             }
           },
           {
@@ -166,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "708179086d123c40",
+  "active": "4820a56509d88189",
   "lastOpenFiles": [
-    "2025-05-07.md",
     "pen testing/File inclusion.md",
+    "pen testing/Cross-site Scripting (XSS).md",
+    "2025-05-07.md",
     "Untitled.canvas",
     "pen testing/Content Discovery.md",
     "pen testing/IDOR.md",
